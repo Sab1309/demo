@@ -21,6 +21,8 @@ public class FirstDemoCLASS {
 		driver.findElement(By.name("firstname")).sendKeys("swati");
 		driver.findElement(By.name("lastname")).sendKeys("bhalerao");
 		
+		System.out.println("git test");
+		
 		
 
 	}
